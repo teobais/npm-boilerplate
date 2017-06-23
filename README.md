@@ -1,9 +1,13 @@
-[![npm version](https://badge.fury.io/js/npm-boiler.svg)](https://badge.fury.io/js/npm-boiler.js)  ![Dependencies](https://david-dm.org/toubou91/npm-boilerplate.svg)
 # npm-boilerplate
 > A boilerplate to create NPM packages.
 
 ## Install
-[![https://nodei.co/npm/npm-boilerplate.png](https://nodei.co/npm/npm-boiler.png)](https://www.npmjs.com/package/npm-boiler)
+```
+git clone https://github.com/toubou91/npm-boilerplate
+```
+```
+npm install
+```
 
 ## Use
 ```javascript
@@ -15,13 +19,6 @@ boilerplate.boil();
 ```
 
 ## Test
-To execute the library's tests, first install the project dependencies:
-
-```
-$ npm install
-```
-
-Then, run the tests
 ```
 $ npm test
 ```
